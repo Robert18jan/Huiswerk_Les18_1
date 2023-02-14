@@ -1,0 +1,60 @@
+@media only screen and (max-width: 768px){
+    }
+
+.col-1 {width: 9.09%;}
+.col-2 {width: 18.18%;}
+.col-3 {width: 27.27%;}
+.col-4 {width: 36.36%;}
+.col-5 {width: 45.45%;}
+.col-6 {width: 54.54%;}
+.col-7 {width: 63.63%;}
+.col-8 {width: 72.72%;}
+.col-9 {width: 81.81%;}
+.col-10 {width: 90.9%;}
+.col-11 {width: 100%;}
+
+      .header {
+        
+        background-color: #6096B4;
+        color: white;
+        padding: 0px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: center;
+        font-size: x-large;
+        width:100%;
+      }
+
+      .col-2 {
+          float: left;
+          background-color: bisque;
+          color:black;
+          height: auto;
+          font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+          font-size: large;
+      }
+
+      .col-9 {
+
+          background-color: #BDCDD6;
+          color: black;
+          height: auto;
+          font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+          float: right;
+      }
+
+      .welkom {
+          text-align: center;
+          background-color:antiquewhite;
+      }
+
+      .footer {
+        
+        position: fixed;
+        width: 100%;
+        left: 0px;
+        bottom: 0px;
+        font-size: large;
+        color: maroon;
+        text-align: center;
+        background-color: #6096B4;
+        }
